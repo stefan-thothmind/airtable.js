@@ -16,7 +16,7 @@
   "dependencies": {
     "@types/node": ">=8.0.0 <15",
     "abort-controller": "^3.0.0",
-    "abortcontroller-polyfill": "^1.4.0",
+    "abortcontroller-polyfill": "^1.7.5",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7"
   },
