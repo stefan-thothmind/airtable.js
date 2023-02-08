@@ -14,7 +14,7 @@
     "prepare": "rm -rf lib/* && rm -f build/airtable.browser.js && tsc && cp lib/airtable.js lib/tmp_airtable.js && grunt browserify && rm lib/tmp_airtable.js"
   },
   "dependencies": {
-    "@types/node": ">=8.0.0 <15",
+    "@types/node": ">=14.18.36",
     "abort-controller": "^3.0.0",
     "abortcontroller-polyfill": "^1.4.0",
     "lodash": "^4.17.21",
